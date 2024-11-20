@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Fondo de la imagen -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M2,2h20v20h-20z" />
+
+    <!-- Círculo (simula el sol) -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M7,7a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+
+    <!-- Montañas -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M4,18l4,-6l4,5l4,-8l4,9h-16z" />
+
+</vector>

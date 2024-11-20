@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">shosai1</string>
+    <string name="search_icon_desc">Buscar elementos</string>
+    <string name="menu_icon_desc">Abrir el menú de opciones</string>
+    <string name="profile_image_desc">Imagen de perfil</string>
+    <string name="product_image_desc">Imagen de un teléfono móvil</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="gift_icon" />
+    <string name="shosai_sys">SHOSAI SYS</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="Login">Login</string>
+    <string name="custom_button">Custom Button</string>
+    <string name="custom" />
+    <string name="Inisiar_sesion">Inisiar_sesion</string>
+    <string name="_149_868">$149.868</string>
+</resources>
